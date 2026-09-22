@@ -1,0 +1,6 @@
+{
+  "name": "Vitres Pro Services",
+  "description": "Professional window cleaning for homes, offices and small commercial properties in Lille, France. 4.8/5 on Google Reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
